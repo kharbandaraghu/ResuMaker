@@ -1,0 +1,11 @@
+.env
+venv
+# ignore anything in resume collection folder
+resume collection/*
+# ignore temporary files and any file that might contain PII
+tmp/*resume*
+Prompts/*prompt*
+# ignore cache files
+**/__pycache__/**
+.DS_Store
+.vscode/settings.json
