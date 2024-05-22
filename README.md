@@ -1,4 +1,7 @@
 # Run 
+![My first design](https://github.com/kharbandaraghu/ResuMaker/assets/36905731/e9fbb623-a3b2-4f6d-a40a-1a08bfd812ec)
+
+
 ## Before you start
 Setup Prompts folder based on configuration.md inside the folder
 ## Running the Script `run.sh` to Generate Resume
