@@ -9,3 +9,5 @@ Prompts/*prompt*
 **/__pycache__/**
 .DS_Store
 .vscode/settings.json
+# log files
+*.log
